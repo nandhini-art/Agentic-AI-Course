@@ -2,7 +2,7 @@
 
 # CBU TAAS Diagnostic ReAct Agent
 
-A minimal Python ReAct (Reasoning and Acting) Agent built with the Google GenAI SDK (`gemini-2.5-flash`) to diagnose simulated CBU TAAS test failures dynamically.
+A minimal Python ReAct (Reasoning and Acting) Agent built with the Google GenAI SDK (`gemini-3.6-flash`) to diagnose simulated CBU TAAS test failures dynamically.
 
 ## Features
 - **Dynamic Reasoning Loop:** Evaluates test failures step-by-step using ReAct.
